@@ -8,3 +8,5 @@ In the Deep Learing i have been covered basics of topics like
    * NLP (Natural Langauge Processing)
    * CV (Computer Vision)
    * LSTM (Long Short Trm Memory)
+
+You can refer the Deep_Learning_NLP_CV.pdf
